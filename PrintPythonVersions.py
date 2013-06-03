@@ -2,6 +2,8 @@ import sys
 
 
 print "Version information of installed Python and extensions:"
+print "-------------------------------------------------------\n"
+
 
 print "Python:      %s" % sys.version 
 
