@@ -48,4 +48,4 @@ except ImportError:
 else:
     print "wxPython:   ",
     for elem in wxversion.getInstalled():
-         print elem
+        print elem
